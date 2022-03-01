@@ -28,3 +28,6 @@ My challenge this week was to build a CMS-style blog site where you can publish 
 
 ## Deployed Links
 
+Deployed App = https://lit-lake-58357.herokuapp.com/
+
+Github Repository = https://github.com/Andrewy2416/awesometechblog
